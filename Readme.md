@@ -9,3 +9,7 @@ First file creation to describe project aim - Basic functionalities
 ## Subheader change (number 3)
 
 Watch the tutorial on Youtube.
+
+## Local development 
+
+1. Open index.html in your browser.
